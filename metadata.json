@@ -1,0 +1,7 @@
+{
+  "name": "AI Girlfriend Call",
+  "description": "Receive a simulated voice call from your AI girlfriend, Chloe, and have a real-time conversation powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
